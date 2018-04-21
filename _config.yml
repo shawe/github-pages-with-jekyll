@@ -1,4 +1,5 @@
-title: Github Lab Course
+title: "!Github Lab Course"
+date: 2018-04-21
 author: Shawe
 email: my-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,6 +14,3 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-
-title: "YOUR-TITLE"
-date: 2018-04-21
