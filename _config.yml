@@ -13,3 +13,6 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minima
+
+title: "YOUR-TITLE"
+date: 2018-04-21
